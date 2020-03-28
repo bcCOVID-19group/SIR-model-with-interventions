@@ -8,3 +8,7 @@ Social distancing is implemented by applying a correcting factor to the beta par
 Testing is implemented by applying a correcting factor to the gamma parameter of the SIR model.
 
 I am not sure it is easy to interpret the correcting factors in terms of actual public health interventions. The notebook is mostly intended to provide a simple model that can be used to generate ideas.
+
+### Cedric Chauve, March 28, 2020
+
+I repeated this approach with the SEIQR model developed by caroline, re-programmed in python.
