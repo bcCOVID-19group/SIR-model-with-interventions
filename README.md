@@ -11,4 +11,4 @@ I am not sure it is easy to interpret the correcting factors in terms of actual 
 
 ### Cedric Chauve, March 28, 2020
 
-I repeated this approach with the SEIQR model developed by caroline, re-programmed in python.
+I repeated this approach with the SEIQR model developed by Caroline, re-programmed in python.
